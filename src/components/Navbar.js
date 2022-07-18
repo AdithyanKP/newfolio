@@ -15,6 +15,11 @@ const Navbar = () => {
   const navHandler = () => {
     setNav((nav) => !nav);
   };
+
+  //mobile navbar actions
+  const mobileNavHandler = () => {
+    setNav(false);
+  };
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f]  text-white">
       <div>
@@ -53,18 +58,33 @@ const Navbar = () => {
         }
       >
         <li className="py-4 text-3xl">
-          <Link to="home" smooth={true} duration={500}>
+          <Link
+            to="home"
+            smooth={true}
+            duration={500}
+            onClick={() => mobileNavHandler()}
+          >
             Home
           </Link>
         </li>
 
         <li className="py-4 text-3xl">
-          <Link to="work" smooth={true} duration={500}>
+          <Link
+            to="skills"
+            smooth={true}
+            duration={500}
+            onClick={() => mobileNavHandler()}
+          >
             Skills
           </Link>
         </li>
         <li className="py-4 text-3xl">
-          <Link to="work" smooth={true} duration={500}>
+          <Link
+            to="work"
+            smooth={true}
+            duration={500}
+            onClick={() => mobileNavHandler()}
+          >
             Work
           </Link>
         </li>
