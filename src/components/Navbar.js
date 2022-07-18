@@ -52,11 +52,22 @@ const Navbar = () => {
             : " md:hidden absolute top-0 left-0 flex flex-col w-full h-screen justify-center align-center bg-[#0a192f] items-center"
         }
       >
-        <li className="py-4 text-3xl">Home</li>
+        <li className="py-4 text-3xl">
+          <Link to="home" smooth={true} duration={500}>
+            Home
+          </Link>
+        </li>
 
-        <li className="py-4 text-3xl">Skills</li>
-        <li className="py-4 text-3xl">Work</li>
-        <li className="py-4 text-3xl">Contact</li>
+        <li className="py-4 text-3xl">
+          <Link to="work" smooth={true} duration={500}>
+            Skills
+          </Link>
+        </li>
+        <li className="py-4 text-3xl">
+          <Link to="work" smooth={true} duration={500}>
+            Work
+          </Link>
+        </li>
       </ul>
 
       {/* social icons */}
