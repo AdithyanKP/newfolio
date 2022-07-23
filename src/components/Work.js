@@ -34,7 +34,7 @@ const Work = () => {
                 Covid-19 tracker
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://adithyan-covid-19-tracker.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -113,7 +113,7 @@ const Work = () => {
                 Netflix clone
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://adiflix.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -141,7 +141,7 @@ const Work = () => {
                 Todo App
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://todo-app-adithyan.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
