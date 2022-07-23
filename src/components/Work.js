@@ -39,7 +39,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/AdithyanKP/covid-19-tracker.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     GitHub
                   </button>
@@ -62,7 +62,7 @@ const Work = () => {
                 E-Plant Ecommerce
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://github.com/AdithyanKP/E-PLANT.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     GitHub
                   </button>
@@ -85,12 +85,7 @@ const Work = () => {
                 Logus Social-media App
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
-                  </button>
-                </a>
-                <a href="/">
+                <a href="https://github.com/AdithyanKP/Logus.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     GitHub
                   </button>
@@ -118,7 +113,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/AdithyanKP/Netflix-Clone.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     GitHub
                   </button>
@@ -146,7 +141,7 @@ const Work = () => {
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/AdithyanKP/To-Do-App.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     GitHub
                   </button>
@@ -169,12 +164,12 @@ const Work = () => {
                 Simple quiz App
               </span>
               <div className="pt-8 text-center">
-                <a href="/">
+                <a href="https://quizz-kp.netlify.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/AdithyanKP/Quiz-app.git">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     GitHub
                   </button>
